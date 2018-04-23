@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "5acd0991dcd0ac09737f8836",
+    "name": "Gail Hayes",
+    "gender": "female",
+    "company": "PARAGONIA",
+    "email": "gailhayes@paragonia.com",
+    "phone": "+1 (983) 446-2310",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5acd0991dc948d6611116f23",
+    "name": "Ester Hodges",
+    "gender": "female",
+    "company": "HATOLOGY",
+    "email": "esterhodges@hatology.com",
+    "phone": "+1 (960) 408-3111",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd099153cf2df38e4e3f20",
+    "name": "Viola Owen",
+    "gender": "female",
+    "company": "GOLOGY",
+    "email": "violaowen@gology.com",
+    "phone": "+1 (945) 462-2182",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09911ef47f727f0c4cf6",
+    "name": "Pickett Hood",
+    "gender": "male",
+    "company": "MUSIX",
+    "email": "picketthood@musix.com",
+    "phone": "+1 (828) 479-2240",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09912522ce4c6fd36e11",
+    "name": "Henrietta Buckner",
+    "gender": "female",
+    "company": "JETSILK",
+    "email": "henriettabuckner@jetsilk.com",
+    "phone": "+1 (987) 553-2056",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09914c6d3cfaacbe73ce",
+    "name": "Ava Rios",
+    "gender": "female",
+    "company": "DANCITY",
+    "email": "avarios@dancity.com",
+    "phone": "+1 (865) 496-3699",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd099141e78c1dc85bbddb",
+    "name": "Snow Bryant",
+    "gender": "male",
+    "company": "IMAGEFLOW",
+    "email": "snowbryant@imageflow.com",
+    "phone": "+1 (872) 449-3677",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd099120e1d9087cafb6e1",
+    "name": "Wise Rosario",
+    "gender": "male",
+    "company": "ENERSAVE",
+    "email": "wiserosario@enersave.com",
+    "phone": "+1 (971) 565-2083",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991ba1af59d0bcc6f42",
+    "name": "Mitzi Jarvis",
+    "gender": "female",
+    "company": "PLAYCE",
+    "email": "mitzijarvis@playce.com",
+    "phone": "+1 (962) 483-3808",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd099166f5399e50e96d84",
+    "name": "Julie Potts",
+    "gender": "female",
+    "company": "ECRATIC",
+    "email": "juliepotts@ecratic.com",
+    "phone": "+1 (941) 447-2345",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991e48e479d4f0e6e84",
+    "name": "Kristie Franks",
+    "gender": "female",
+    "company": "COMTEXT",
+    "email": "kristiefranks@comtext.com",
+    "phone": "+1 (901) 574-3315",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd0991a4182c540d4667b5",
+    "name": "Hobbs Swanson",
+    "gender": "male",
+    "company": "ACCEL",
+    "email": "hobbsswanson@accel.com",
+    "phone": "+1 (851) 528-3093",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5acd0991179596ffa4b18d63",
+    "name": "Yvette Klein",
+    "gender": "female",
+    "company": "EZENT",
+    "email": "yvetteklein@ezent.com",
+    "phone": "+1 (932) 501-3260",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991380af320ec460c27",
+    "name": "Marks Lara",
+    "gender": "male",
+    "company": "RECRISYS",
+    "email": "markslara@recrisys.com",
+    "phone": "+1 (983) 510-3110",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991b2ebd2d21d9c86f7",
+    "name": "Jackie Combs",
+    "gender": "female",
+    "company": "COMVOY",
+    "email": "jackiecombs@comvoy.com",
+    "phone": "+1 (903) 427-2668",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991fbb19ba97ece004a",
+    "name": "Delgado Russo",
+    "gender": "male",
+    "company": "ENORMO",
+    "email": "delgadorusso@enormo.com",
+    "phone": "+1 (926) 565-3288",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09911e69aeb275e98715",
+    "name": "Mccoy Tran",
+    "gender": "male",
+    "company": "DOGNOST",
+    "email": "mccoytran@dognost.com",
+    "phone": "+1 (907) 405-3541",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd0991798f287739dfa38d",
+    "name": "Betsy Baird",
+    "gender": "female",
+    "company": "XLEEN",
+    "email": "betsybaird@xleen.com",
+    "phone": "+1 (804) 595-3847",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd09919928fb496ca868a4",
+    "name": "John Gilliam",
+    "gender": "female",
+    "company": "SUNCLIPSE",
+    "email": "johngilliam@sunclipse.com",
+    "phone": "+1 (811) 483-3709",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991d3f0056170740d70",
+    "name": "Earline Ashley",
+    "gender": "female",
+    "company": "COWTOWN",
+    "email": "earlineashley@cowtown.com",
+    "phone": "+1 (802) 458-2478",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991a82d252147ac9e68",
+    "name": "Burt Valentine",
+    "gender": "male",
+    "company": "CORPORANA",
+    "email": "burtvalentine@corporana.com",
+    "phone": "+1 (950) 543-3643",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd0991a338343c99b90a6b",
+    "name": "Briggs Quinn",
+    "gender": "male",
+    "company": "MICROLUXE",
+    "email": "briggsquinn@microluxe.com",
+    "phone": "+1 (947) 442-2562",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd099105208bc9d8378db4",
+    "name": "Head Lee",
+    "gender": "male",
+    "company": "LYRIA",
+    "email": "headlee@lyria.com",
+    "phone": "+1 (842) 417-3741",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09916d124f6256913683",
+    "name": "Amalia Dennis",
+    "gender": "female",
+    "company": "COMFIRM",
+    "email": "amaliadennis@comfirm.com",
+    "phone": "+1 (890) 435-2557",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991c7612c6ed8311593",
+    "name": "Ruiz Vang",
+    "gender": "male",
+    "company": "ZENSUS",
+    "email": "ruizvang@zensus.com",
+    "phone": "+1 (860) 460-2857",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd09919ad37412a5460202",
+    "name": "Rebekah William",
+    "gender": "female",
+    "company": "ZENTRY",
+    "email": "rebekahwilliam@zentry.com",
+    "phone": "+1 (937) 483-3713",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5acd0991107380ff0346c781",
+    "name": "Abby Owens",
+    "gender": "female",
+    "company": "NETROPIC",
+    "email": "abbyowens@netropic.com",
+    "phone": "+1 (925) 506-3651",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5acd09910606ef1de529c809",
+    "name": "Anita Pittman",
+    "gender": "female",
+    "company": "GEEKETRON",
+    "email": "anitapittman@geeketron.com",
+    "phone": "+1 (919) 488-3918",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5acd0991ef04756f447cc24f",
+    "name": "Sonia Soto",
+    "gender": "female",
+    "company": "SOLAREN",
+    "email": "soniasoto@solaren.com",
+    "phone": "+1 (970) 430-3883",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5acd0991f0b9b9e5bade780d",
+    "name": "Hays Mathews",
+    "gender": "male",
+    "company": "SUREPLEX",
+    "email": "haysmathews@sureplex.com",
+    "phone": "+1 (993) 455-3133",
+    "favoriteFruit": "apple"
+  }
+]
