@@ -1,5 +1,4 @@
-FROM openjdk:8-jdk-alpine
-ADD mongo.jar mongo.jar
-VOLUME /src/main/resources
-ADD sample.json /src/main/resources
+FROM java:8
+EXPOSE 8080
+ADD /target/mongo.jar mongo.jar
 ENTRYPOINT ["java","-jar","mongo.jar"]
