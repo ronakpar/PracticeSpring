@@ -43,7 +43,7 @@ public class FruitsController {
 	        }   
 	         	
 	       
-        return "SUCCESS"+jsonString.get(0);
+        return "SUCCESS JSON"+jsonString.get(0);
     }
     
   
